@@ -30,7 +30,7 @@
 ## 🎯Contato 
    
   <p align="left"> 
-    <a href = "https://www.instagram.com/pedropistari_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://www.instagram.com/pedropistarini_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href = "mailto:phrpistarini@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
   </p>
   
