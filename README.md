@@ -5,7 +5,7 @@
 - 🌱 Estudante de Engenharia De Computação
 - 😄 Pronouns: ele/dele
 
-## 🕶️ Dados 
+## 😎 Dados 
 
 <div align="center">
   <a href="https://github.com/PedroPistarini">
