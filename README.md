@@ -3,7 +3,6 @@
 
 - 🔭 Trabalhando no meu Crescimento
 - 🌱 Estudante de Engenharia De Computação
-- 😄 Pronouns: ele/dele
 
 ## 😎 Dados 
 
